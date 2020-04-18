@@ -19,5 +19,7 @@ package com.stack.question55;
  * @since 1.0.0
  */
 public class solution1 {
+    public static void main(String[] args) {
 
+    }
 }
